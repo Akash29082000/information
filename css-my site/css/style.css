@@ -1,0 +1,181 @@
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#EFE1D1 ;
+    
+}
+h1{
+    color: #7D7463;
+    font-family:'Dancing Script', cursive;
+    font-size: 4rem;
+    margin:50px auto auto;
+    padding: 2px;
+    width: 15%;
+    margin: 0 auto 0 auto;
+
+}
+.htwo{
+    color: #071952;
+    font-size: 2.5rem;
+    line-height: 1rem;
+    
+
+}
+span{
+    text-decoration: underline;
+    line-height: 2rem;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color:  #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: #11999E;
+}
+.top-container{
+    background-color: #E9B384;
+    padding-top: 100px;
+
+}
+.com{
+    text-decoration: underline;
+}
+
+.middle{
+    position: absolute;
+}
+.top{
+    margin: 20px auto 20px auto;
+
+       
+    
+}
+.profilepic{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 20px;
+}
+.link{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    left: 3px;
+}
+.footer-link{
+    color:#11999E ;
+    margin: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto ;
+    text-align: left;
+    line-height: 2rem;
+    
+    
+    
+}
+.computer{
+    width:25%;
+    float: left;
+    position: relative;
+    right: 30px;
+}
+.skillpic{
+    width: 25%;
+    border-radius: 50%;
+    float:right;
+    position: relative;
+    left: 40px;
+}
+.line1{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #E9B384;
+    border-width: 15px;
+    width: 5%;
+}
+
+
+.software{
+    
+line-height: 2rem;
+width: 70%;
+margin: auto;
+}
+.hello{
+    position: relative;
+    top: 10px;
+}
+.contact-me{
+    background-color: #755b31;
+}
+.no{
+    border-style: none;
+    border-color: #DBC4F0;
+    margin: 0;
+}
+.btn{
+    position: relative;
+    bottom: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: bold;
+    font-weight: 5px;
+    background: #898121;
+    width: 5%;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 6px;
+    cursor: pointer;
+
+
+}
+.bth:hover{
+    background: #E9B384;
+}
+.order{
+    list-style-position: inside;
+    list-style-type: circle;
+    text-align: left;
+}
+.greatpic{
+    
+    float: left;
+    position: relative;
+    right:40px;
+}
+.home1{
+   width: 5%;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: larger;
+   color: #755b31;
+   position: relative;
+   left: 100px;
+}
+.home2{
+    width: 5%;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: larger;
+   color: #755b31;
+   position: relative;
+   left: 200px;
+   bottom: 45px; 
+}
+.home3{
+    width: 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    color: #755b31;
+    position: relative;
+    left: 300px;
+    bottom: 85px; 
+
+}
